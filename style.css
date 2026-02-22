@@ -1,0 +1,104 @@
+/* ===== PAGE BACKGROUND ===== */
+body {
+    background: linear-gradient(135deg, #eef2f7, #8f99a8);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  .main-title {
+    font-size: 54px;
+    font-weight: 600;
+    color: #37474f;
+}
+
+#loadingText {
+    font-size: 42px;
+}
+
+
+}
+
+/* ===== TITLE ===== */
+h2 {
+    margin-top: 25px;
+    font-weight: 600;
+    color: #2f346c;
+}
+
+/* ===== VIDEO WRAPPER (IMPORTANT) ===== */
+.video-wrapper {
+    position: relative;
+    width: 640px;
+    margin: 30px auto;
+}
+
+/* ===== VIDEO ===== */
+#video {
+    width: 100%;
+    height: auto;
+    border-radius: 18px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    display: block;
+}
+
+/* ===== CANVAS OVERLAY ===== */
+#c1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* ===== CONTROLS CARD (SMALLER VERSION) ===== */
+table {
+    width: 260px;                 /* ⭐ Smaller width */
+    margin: 25px auto;
+    background: white;
+    padding: 14px 18px;           /* ⭐ Reduced padding */
+    border-radius: 14px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+
+/* ===== TABLE TEXT ===== */
+td {
+    font-size: 15px;              /* ⭐ Slightly smaller text */
+    padding: 8px 10px;            /* ⭐ Less spacing */
+}
+
+/* ===== SWITCH ALIGNMENT ===== */
+.switch {
+    margin-left: 5px;
+}
+
+/* ===== SLIDER ===== */
+input[type=range] {
+    width: 140px;                 /* ⭐ Smaller slider */
+}
+
+/* ===== LOADING TEXT ===== */
+#loadingText {
+    color: #37474f;
+    font-weight: 500;
+}
+
+/* ===== RESPONSIVE (FOR SMALL SCREENS) ===== */
+@media screen and (max-width: 700px) {
+
+    .video-wrapper {
+        width: 95%;
+    }
+
+    table {
+        width: 85%;
+        padding: 12px;
+    }
+
+    td {
+        font-size: 14px;
+    }
+
+    input[type=range] {
+        width: 120px;
+    }
+}
