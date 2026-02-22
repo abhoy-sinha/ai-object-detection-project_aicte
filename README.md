@@ -72,10 +72,11 @@ A browser-based AI system that uses a trained object detection model to analyze 
 ## 🔗 Links
 
 **GitHub Repository:**
-https://github.com/abhoy-sinha/ai-object-detection
+https://github.com/abhoy-sinha/ai-object-detection-project_aicte
 
 **Live Demo:**
-https://abhoy-sinha.github.io/ai-object-detection/
+https://abhoy-sinha.github.io/ai-object-detection-project_aicte/
+
 
 ---
 ## 👨‍💻 Author
