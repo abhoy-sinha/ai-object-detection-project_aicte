@@ -78,13 +78,19 @@ https://github.com/abhoy-sinha/ai-object-detection
 https://abhoy-sinha.github.io/ai-object-detection/
 
 ---
-
 ## 👨‍💻 Author
 
-**Abhoy Sinha**
-B.Tech – Energy Engineering
-IBM SkillBuild Internship Project
+**Abhoy Sinha**  
+B.Tech – Energy Engineering  
+IBM SkillBuild Intern  
+
+**Student ID:** STU69247dd6472941763999190  
+**Internship ID:** INTERNSHIP_1764758976693015c089a5a
 
 ---
+## 📄 License
 
-⭐ *If you like this project, consider giving it a star!*
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+© 2026 Abhoy Sinha
+
